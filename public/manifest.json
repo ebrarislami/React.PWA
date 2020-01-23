@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React PWA App",
+  "name": "Create React PWA App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,24 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "icon-120.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "120x120"
     },
     {
-      "src": "logo512.png",
+      "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "icon-144.png",
+      "type": "image/png",
+      "sizes": "14x144"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "start_url": ".",
